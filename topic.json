@@ -1,0 +1,15 @@
+{
+ "topic": "Animated UI mockups for product videos",
+ "question": "How do pros animate real product UI screens in ads (3D device/screen mockups, screen recordings composited in 3D, cursor choreography, zoom-to-feature, depth layers, motion blur) and how to do it in code with real screen recordings?",
+ "queries": [
+  "device mockup 3d react",
+  "screen recording video editor open source",
+  "css 3d transform mockup",
+  "cursor animation video"
+ ],
+ "urls": [
+  "https://www.remotion.dev/docs/three",
+  "https://www.remotion.dev/docs/offthreadvideo",
+  "https://threejs.org/manual/#en/fundamentals"
+ ]
+}
