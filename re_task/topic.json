@@ -1,0 +1,13 @@
+{
+ "topic": "Activepieces dashboard reverse-engineering",
+ "question": "From Activepieces' public source (github.com/activepieces/activepieces, packages/react-ui and packages/server/api) and docs: dashboard structure (flows, runs, connections, templates, project members/roles, platform admin, usage, billing, API keys, signing keys). Routes, data models, plan limits, how API keys are generated, stored (hashed?) and scoped.",
+ "queries": [
+  "activepieces api key",
+  "activepieces platform admin",
+  "activepieces billing plan limits"
+ ],
+ "urls": [
+  "https://www.activepieces.com/docs/endpoints/overview",
+  "https://www.activepieces.com/docs/security/practices"
+ ]
+}
